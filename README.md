@@ -1,4 +1,4 @@
-# GTA-Gamning Vietnam
+# GTA-Gaming Vietnam
 
 **This script by Yue Hua (Nancy) aka Chocopie Luxury.**
 
